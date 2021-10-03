@@ -12,6 +12,8 @@ ipfs://QmWWpnZyCUNnFgMUAaKLXCFX2SZKLZ6Rf2rDEQKr7k67bM
 
 force update: https://api.opensea.io/api/v1/asset/0x0e97738Ff1aEbe61322c4D988ed343b7CEAF264f/2/?force_update=true
 
-
-
 https://opensea.io/assets/0x0e97738ff1aebe61322c4d988ed343b7ceaf264f/1/ 
+
+
+SOULSELL is generative on chain NFT with  https://opensea.io/assets/sell-your-soul-1  or mint your own at https://etherscan.io/address/0x0e97738Ff1aEbe61322c4D988ed343b7CEAF264f#writeContract with mintAndSign
+
